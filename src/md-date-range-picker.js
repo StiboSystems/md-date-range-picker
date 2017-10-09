@@ -32,6 +32,7 @@
                 maxRange: '=?',
                 onePanel: '=?',
                 isDisabledDate: '&?',
+                isHighlightedDate: '&?'
             },
             templateUrl: './md-date-range-picker.html',
             controller: 'mdDateRangePickerCtrl',
